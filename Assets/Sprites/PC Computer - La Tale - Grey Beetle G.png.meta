@@ -1,0 +1,532 @@
+fileFormatVersion: 2
+guid: a54f1e66ffa01674a964d3124004ad55
+timeCreated: 1507109554
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: PC Computer - La Tale - Grey Beetle G_0
+    21300002: PC Computer - La Tale - Grey Beetle G_1
+    21300004: PC Computer - La Tale - Grey Beetle G_2
+    21300006: PC Computer - La Tale - Grey Beetle G_3
+    21300008: PC Computer - La Tale - Grey Beetle G_4
+    21300010: PC Computer - La Tale - Grey Beetle G_5
+    21300012: PC Computer - La Tale - Grey Beetle G_6
+    21300014: PC Computer - La Tale - Grey Beetle G_7
+    21300016: PC Computer - La Tale - Grey Beetle G_8
+    21300018: PC Computer - La Tale - Grey Beetle G_9
+    21300020: PC Computer - La Tale - Grey Beetle G_10
+    21300022: PC Computer - La Tale - Grey Beetle G_11
+    21300024: PC Computer - La Tale - Grey Beetle G_12
+    21300026: PC Computer - La Tale - Grey Beetle G_13
+    21300028: PC Computer - La Tale - Grey Beetle G_14
+    21300030: PC Computer - La Tale - Grey Beetle G_15
+    21300032: PC Computer - La Tale - Grey Beetle G_16
+    21300034: PC Computer - La Tale - Grey Beetle G_17
+    21300036: PC Computer - La Tale - Grey Beetle G_18
+    21300038: PC Computer - La Tale - Grey Beetle G_19
+    21300040: PC Computer - La Tale - Grey Beetle G_20
+    21300042: PC Computer - La Tale - Grey Beetle G_21
+    21300044: PC Computer - La Tale - Grey Beetle G_22
+    21300046: PC Computer - La Tale - Grey Beetle G_23
+    21300048: PC Computer - La Tale - Grey Beetle G_24
+    21300050: PC Computer - La Tale - Grey Beetle G_25
+    21300052: PC Computer - La Tale - Grey Beetle G_26
+    21300054: PC Computer - La Tale - Grey Beetle G_27
+    21300056: PC Computer - La Tale - Grey Beetle G_28
+    21300058: PC Computer - La Tale - Grey Beetle G_29
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - La Tale - Grey Beetle G_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 214
+        width: 76
+        height: 42
+      alignment: 9
+      pivot: {x: 0.51079077, y: 0.5294294}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - La Tale - Grey Beetle G_1
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 213
+        width: 77
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - La Tale - Grey Beetle G_2
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 212
+        width: 76
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - La Tale - Grey Beetle G_3
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 212
+        width: 76
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - La Tale - Grey Beetle G_4
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 212
+        width: 76
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - La Tale - Grey Beetle G_5
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 212
+        width: 76
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - La Tale - Grey Beetle G_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 170
+        width: 76
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - La Tale - Grey Beetle G_7
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 169
+        width: 76
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - La Tale - Grey Beetle G_8
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 168
+        width: 76
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - La Tale - Grey Beetle G_9
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 168
+        width: 76
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - La Tale - Grey Beetle G_10
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 167
+        width: 74
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - La Tale - Grey Beetle G_11
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 167
+        width: 76
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - La Tale - Grey Beetle G_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 125
+        width: 76
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - La Tale - Grey Beetle G_13
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 124
+        width: 77
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - La Tale - Grey Beetle G_14
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 124
+        width: 83
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - La Tale - Grey Beetle G_15
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 121
+        width: 76
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - La Tale - Grey Beetle G_16
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 121
+        width: 76
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - La Tale - Grey Beetle G_17
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 120
+        width: 74
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - La Tale - Grey Beetle G_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 77
+        width: 77
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - La Tale - Grey Beetle G_19
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 71
+        width: 76
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - La Tale - Grey Beetle G_20
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 71
+        width: 76
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - La Tale - Grey Beetle G_21
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 68
+        width: 76
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - La Tale - Grey Beetle G_22
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 67
+        width: 67
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - La Tale - Grey Beetle G_23
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 66
+        width: 67
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - La Tale - Grey Beetle G_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 14
+        width: 82
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - La Tale - Grey Beetle G_25
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 5
+        width: 80
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - La Tale - Grey Beetle G_26
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 10
+        width: 80
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - La Tale - Grey Beetle G_27
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 7
+        width: 80
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - La Tale - Grey Beetle G_28
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 12
+        width: 80
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - La Tale - Grey Beetle G_29
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 66
+        width: 67
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
